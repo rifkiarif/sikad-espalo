@@ -1,5 +1,0 @@
-SIKAD DIGITAL v4 — GitHub Pages + GAS API
-- doPost/doGet API JSON { fn, args }
-- Frontend dual-mode: google.script.run ATAU fetch(SIKAD_API_URL)
-- Allowlist fungsi API
-- Kop Jember + font settings + format tanggal ID (dari v3)
